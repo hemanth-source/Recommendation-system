@@ -16,7 +16,7 @@ Hybrid Filtering: Combines collaborative and content-based filtering for better 
 
 Technologies Used
 
-Frontend: HTML, CSS,(React for modern UI)
+
 
 Machine Learning: Collaborative Filtering, Content-Based Filtering
 
